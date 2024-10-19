@@ -14,7 +14,7 @@ $nombre = $_SESSION['user_name'];
 
 
 
-$ruta = 'https://improved-space-goldfish-jjw6rv7r4vxc5v9x-3000.app.github.dev/';
+$ruta = 'http://r0gosgo0okwkk080cwc0s4s8.157.173.105.97.sslip.io/';
 
 
 
